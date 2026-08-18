@@ -1,8 +1,6 @@
-# pothole-segmentation
+# AI-Based Pothole Detection and Instance Segmentation
 
 Real-time Pothole Detection and Segmentation using Deep Learning
-
-[Paper link]()
 
 > The potholes found on the Indian roads prove to be conundrum to avoid while driving. This
 work deals with the automatic detection and segmentation of potholes on the roads using
